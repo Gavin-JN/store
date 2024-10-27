@@ -1,0 +1,54 @@
+
+.pCss{
+    padding-top: 40px;
+    text-align: center;
+    font-size: xxx-large;
+    font-family: "Bradley Hand ITC";
+}
+.loginCss{
+    /*background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);*/
+    box-shadow:0 0 10px #000;
+    margin-top: 12%;
+    margin-left: 62%;
+    width: 500px;
+    height: 520px;
+    border-radius: 16px;
+    align-items: center;
+    font-size: large;
+    font-family: "Bradley Hand ITC";
+
+}
+.textCss{
+    margin-top: 0;
+    align-content: center;
+    border-radius: 8px;
+    width: 230px;
+    height: 36px;
+    background-color: #cfd9df;
+    border: 1px ;
+}
+.butCss{
+    width: 200px;
+    height: 36px;
+    border-radius: 6px;
+    background-color: #008CBA;
+    border: none;
+    font-size: larger;
+    font-family: "Bradley Hand ITC";
+
+}
+.butCss:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.formCss{
+    margin-top: 50px;
+    margin-right: 10px;
+    line-height: 80px;
+    height: 60px;
+}
+.upCss{
+    margin-top: 46%;
+    margin-left: 38%;
+
+
+}
